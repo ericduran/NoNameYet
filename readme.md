@@ -1,4 +1,3 @@
-
 NoNameYet
 ---------
 
@@ -27,7 +26,8 @@ return:
 }
 ````
 
-To add a provider you just need to create a new directory in a reverse dns folder structur under the providers directory (aka sprint.com => /providers/com/sprint/).
+To add a provider you just need to create a new directory in a reverse dns folder structure under the providers directory
+(aka sprint.com => /providers/com/sprint/).
 
 In that directory you can have a login.js.
 
