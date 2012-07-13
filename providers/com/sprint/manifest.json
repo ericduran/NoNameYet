@@ -1,0 +1,12 @@
+{
+  "name": "Sprint",
+  "version": "0.1",
+  "description": "Retrive sprint current bill.",
+  "category": "Mobile", // ["Mobile", "Electrical", "Etc.."]
+  "security": false, // Has captcha
+  "download": true, // Has downloadable bill available.
+  "form": { // Credentials required to log in
+    "user": "text", // Label => input[type]
+    "pass": "password", // Label => input[type]
+  },
+}
