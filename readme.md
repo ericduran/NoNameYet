@@ -5,7 +5,7 @@ An attempt at building an open source bill aggregator.
 
 The idea is to be able to easily collect bill information from all providers.
 
-Right now there is only one "supporter" provider (sprint). Only because I have and account with them.
+Right now there is only one "supported" provider (sprint). Only because I have and account with them.
 
 This assumes you have CasperJS.
 
